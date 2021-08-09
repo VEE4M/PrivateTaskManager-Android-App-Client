@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PrivateTaskManagerApp</string>
+    <string name="title">Title..</string>
+    <string name="write_something">Write something..</string>
+    <string name="password">Password..</string>
+    <string name="login">Login</string>
+    <string name="dont_have_an_account">Dont have an account?</string>
+    <string name="register_here">Register here!</string>
+    <string name="user">User..</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="register">Register</string>
+    <string name="please_insert_title">Please insert a title!</string>
+    <string name="snackbar_task_saved">Task saved!</string>
+    <string name="snackbar_task_deleted">Task deleted!</string>
+    <string name="snackbar_task_not_saved">Task not saved!</string>
+    <string name="snackbar_undo">Undo</string>
+    <string name="add_task">Add task</string>
+    <string name="fragment_title_register">Register</string>
+    <string name="fragment_title_login">Private Task Manager</string>
+    <string name="fragment_title_tasks">Tasks</string>
+    <string name="fragment_add_edit_task_title">Save task</string>
+    <string name="fragment_task_detail_title">Task details</string>
+</resources>
